@@ -1,3 +1,3 @@
 # Basics of React native Fetching of Data.
 
-Only for self-refernce
+Only for self-reference
